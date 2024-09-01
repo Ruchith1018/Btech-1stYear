@@ -1,6 +1,6 @@
 # Phone Book Application
 
-This project is a simple yet functional Phone Book Application developed during my 1st year of [Your Course Name]. The application allows users to store, search, update, and delete contacts, providing a basic understanding of file handling and data management in programming.
+This project is a simple yet functional Phone Book Application developed during my 1st year. The application allows users to store, search, update, and delete contacts, providing a basic understanding of file handling and data management in programming.
 
 ## Features
 
