@@ -45,7 +45,7 @@ cd Btech-1stYear/Bidirectional Visitor Counter using Arduino
 
 ### Designs
 
-![Software Design](display.png)
+![Software Design](design.png)
 
 ### Hardware Setup
 
