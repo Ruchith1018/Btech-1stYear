@@ -12,7 +12,7 @@ This project is a DNA to Protein Converter, developed during my 1st year of [You
 
 - **Programming Language:** Python
 - **Libraries:** 
-  - `Biopython` (if used)
+  - `Biopython`
   - `re` (Regular Expressions for sequence validation)
 
 ## Future Enhancements
